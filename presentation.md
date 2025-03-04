@@ -125,7 +125,7 @@ Didn't talk to this person but it looked like a lot of StableDifussion img2img -
 
 ---
 
-# Golf Game
+# Light Golf
 
 <video height="580" controls>
   <source src="./content/light-golf.mp4" type="video/mp4">
@@ -136,13 +136,40 @@ Didn't talk to this person but it looked like a lot of StableDifussion img2img -
 
 ---
 
-# Light Plants
+# Exhibition: Radiant Vines
 
+<video height="580" controls>
+  <source src="./content/radiant-vines.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
-<!-- Similarly had to ignore and walk past. Entagled with the environment. -->
+<!-- Similarly had to ignore and walk past. Entagled with the environment. MicroBits were used for this, though I didn't get "how" as I figured they were more of a toy for learning how to program, so this is was quite interesting to me. -->
+
 ---
 
-# Makey Makey
+# Exhibition: AILA
+
+- select a mask and place it on the "conversation" panel
+- have a conversation with a different archetype
+
+![bg left](content/archetype-masks.jpeg)
+
+---
+
+# Exhibition: AILA
+
+<video height="580" controls>
+  <source src="./content/aila.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+# Talk: A brief appeal for approachable game design
+
+- Led by Alex Johansson
+- experimental game designer
+- "why focus on 100-hour games when billions have never had a meaningful gaming experience"
+- novel controllers attract attention
 
 ![bg left](content/makey-makey.jpeg)
 
@@ -150,21 +177,13 @@ Didn't talk to this person but it looked like a lot of StableDifussion img2img -
 
 ---
 
-# Exhibition: 
-
-- select a mask and place it on the "conversation" panel
-- have a conversation with a different archetype
-
-![bg left](content/archetype-masks.jpeg)
-
-
----
-
-# Workshop: Dream Instrument
+# Workshop: Dreamstrument
 
 - could be done in around 20 minutes
 - use some sponges + slug repellent tape to create a "button"
 - combine with MIDI and the Koala software to cause pushing the button to create a sound
 
 ![bg left](content/my-dream-instrument.jpeg)
+
+<!-- Didn't really record anything from the Algorave workshop, though I did enjoy it. But I've attended similar workshops in the past. -->
 
