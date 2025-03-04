@@ -45,7 +45,7 @@ Basildon
 # Thunkist (installation + peformance)
 
 <video height="580" controls>
-  <source src="./content/thunkist-small.mp4" type="video/mp4">
+  <source src="./content/thunkist-half.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
