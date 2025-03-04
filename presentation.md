@@ -70,6 +70,11 @@ Basildon
 
 # Echo of the Mixer
 
+<video height="580" controls>
+  <source src="./content/echo-of-the-mixer-half.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 <!-- 
 Didn't talk to this person but it looked like a lot of StableDifussion img2img -->
 
