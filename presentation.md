@@ -101,12 +101,7 @@ Didn't talk to this person but it looked like a lot of StableDifussion img2img -
 
 # Exhibition: You Have a New Follower
 
-- robotic arm + "never-ending" IG stream
-- software - python and opencv
-
----
-
-<video height="600" controls>
+<video height="580" controls>
   <source src="./content/new-follower.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
@@ -114,6 +109,9 @@ Didn't talk to this person but it looked like a lot of StableDifussion img2img -
 <!-- My "Hmmm" and gum chewing can he heard here...
 - An engineer who moved into art
 - 3D printed and assembled the art himself
+- robotic arm + "never-ending" IG stream, surveillence, etc
+- software - python and opencv
+- he told me that it didn't require an especially powerful machine to get this running, but sometimes the stream/OBS had some issues here and there
  -->
 
 ---
@@ -125,6 +123,23 @@ Didn't talk to this person but it looked like a lot of StableDifussion img2img -
 
 ![bg left](content/golf-photo.jpeg)
 
+---
+
+# Golf Game
+
+<video height="580" controls>
+  <source src="./content/light-golf.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!-- This was spun around a turnstile in the entrance, so you had no "choice" but to notice it. I also liked that it felt more embedded in the environment, rather than feeling sort of "boxed." Built with ESP32s. He spoke a little bit of his plan to build different maps. -->
+
+---
+
+# Light Plants
+
+
+<!-- Similarly had to ignore and walk past. Entagled with the environment. -->
 ---
 
 # Makey Makey
