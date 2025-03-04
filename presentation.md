@@ -8,13 +8,12 @@ Basildon
 
 ![bg right](./content/dream-instrument.png)
 
----
-
-# Overview
-
-- tech-art exhibition + talks and workshops
-- mainly more local artists
-- aimed at "opening-up" tech-art to general public
+<!-- 
+- three-day tech-art event
+- tech-art exhibition + artist-led talks and workshops
+- completely open to the public
+- music, 
+-->
 
 ---
 
@@ -25,10 +24,34 @@ Basildon
 
 ---
 
+# Thunkist
+
+<video height="580" controls>
+  <source src="./content/thunkist.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<!-- 
+- "movement-activated electronic music"
+- handed out three "wands" to the audience
+- each contain a smart watch running flowfal
+- flowfal sends messages to Ableton - deciding which speaker to emits the most sound, controlling animations, affecting which portion of some audio is part of the overall song
+- often works with dancers
+ -->
+
+---
+
 # Exhibition: You Have a New Follower
 
 - robotic arm + "never-ending" IG stream
 - software - python and opencv
+
+---
+
+<video height="600" controls>
+  <source src="./content/new-follower.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ---
 
