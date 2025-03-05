@@ -29,16 +29,14 @@ Basildon
 - algorave workshop (TidalCycles)
 - controller talk
 
-![bg left](content/buttons.jpeg)
-
 ---
 
 # Sunday
 
-- dream instrument workshop 
+- dreamstrument workshop 
 - prosthetics talk
 
-![bg left](content/fake-eye.jpeg)
+![bg left](content/jaw.jpg)
 
 ---
 
@@ -125,12 +123,14 @@ Didn't talk to this person but it looked like a lot of StableDifussion img2img -
 
 ---
 
-# Light Golf
+# LED Golf
 
+<centre>
 <video height="580" controls>
   <source src="./content/light-golf.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+</centre>
 
 <!-- This was spun around a turnstile in the entrance, so you had no "choice" but to notice it. I also liked that it felt more embedded in the environment, rather than feeling sort of "boxed." Built with ESP32s. He spoke a little bit of his plan to build different maps. -->
 
@@ -164,6 +164,24 @@ Didn't talk to this person but it looked like a lot of StableDifussion img2img -
 </video>
 
 ---
+
+# Exhibition: Sonic Shy
+
+- use conductive thread
+- throwing ball in a tunnel causes a circuit to complete
+
+![bg left](content/music-tunnel.jpg)
+
+---
+
+# Exhibition: I have a bad memory
+
+<video height="580" controls>
+  <source src="./content/bad-memory.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
 # Talk: A brief appeal for approachable game design
 
 - Led by Alex Johansson
@@ -187,3 +205,26 @@ Didn't talk to this person but it looked like a lot of StableDifussion img2img -
 
 <!-- Didn't really record anything from the Algorave workshop, though I did enjoy it. But I've attended similar workshops in the past. -->
 
+---
+
+# Workshop: Dreamstrument
+
+<video height="580" controls>
+  <source src="./content/my-button.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+# Workshop: Dreamstrument
+
+<video height="580" controls>
+  <source src="./content/button.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+---
+
+# Talk: Prosthetic Futures
+
+![bg left](content/fake-eye.jpeg)
